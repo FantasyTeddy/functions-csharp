@@ -1,0 +1,165 @@
+{
+  "source_base_path": "/home/runner/work/functions-csharp/functions-csharp/.documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.Client.InvokeFunctionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.Client.InvokeFunctionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.Client.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.Client.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.Exceptions.FailureHint.Reason.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.Exceptions.FailureHint.Reason.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.Exceptions.FailureHint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.Exceptions.FailureHint.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.Exceptions.FunctionsException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.Exceptions.FunctionsException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.Exceptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.Interfaces.IFunctionsClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.Interfaces.IFunctionsClient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.Interfaces.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.Responses.BaseResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.Responses.BaseResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.Responses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.Responses.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Supabase.Functions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Supabase.Functions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        },
+        ".html": {
+          "relative_path": "api/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
